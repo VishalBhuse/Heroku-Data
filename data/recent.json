@@ -1,0 +1,44 @@
+[
+    {
+      "category": "men_clothing",
+      "web_scraper_order": "1655219002-447",
+      "category_MenClothing": "VERSACE Heritage Scarf Cotton & Silk Hoodie In Black     $429 - $1025 1",
+      "brand_store": "8 stores",
+      "category_MenClothing_href": "https://modesens.com/product/versace-heritage-scarf-cotton-and-silk-hoodie-black-39850150/",
+      "product_name": "VERSACE",
+      "product_description": "Heritage Scarf Cotton & Silk Hoodie In Black",
+      "product_price": "$429 - $1025",
+      "product_img_src": "https://cdn.modesens.com/availability/48961296?w=400&",
+      "id": 1
+    },
+    {
+      "category": "women",
+      "web_scraper_order": "1655211187-10",
+      "brand_store": "4 stores",
+      "product_name": "BURBERRY",
+      "product_description": "Vintage Check Double-breasted Trench Coat In Brown",
+      "product_price": "$1457 - $3239",
+      "product_img_src": "https://cdn.modesens.com/availability/45445924?w=400&",
+      "id": 2
+    },
+    {
+      "category": "women",
+      "web_scraper_order": "1655211299-50",
+      "brand_store": "8 stores",
+      "product_name": "SAINT LAURENT",
+      "product_description": "Maillot Saharienne Lace-up One-piece Swimsuit In 黑色",
+      "product_price": "$568 - $1485",
+      "product_img_src": "https://cdn.modesens.com/availability/49345070?w=400&",
+      "id": 3
+    },
+    {
+      "category": "women",
+      "web_scraper_order": "1655211299-50",
+      "brand_store": "8 stores",
+      "product_name": "SAINT LAURENT",
+      "product_description": "Maillot Saharienne Lace-up One-piece Swimsuit In 黑色",
+      "product_price": "$568 - $1485",
+      "product_img_src": "https://cdn.modesens.com/availability/49345070?w=400&",
+      "id": 4
+    }
+  ]

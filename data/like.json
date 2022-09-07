@@ -1,0 +1,74 @@
+[
+    {
+      "web_scraper_order": "1655211299-50",
+      "web-scraper-start_url": "https://modesens.com/shop-women-clothing/",
+      "category_women": "SAINT LAURENT Maillot Saharienne Lace-up One-piece Swimsuit In 黑色     $568 - $1485 1",
+      "brand_store": "8 stores",
+      "category_women_href": "https://modesens.com/product/saint-laurent-maillot-saharienne-lace-up-one-piece-swimsuit-43559704/",
+      "product_name": "SAINT LAURENT",
+      "product_description": "Maillot Saharienne Lace-up One-piece Swimsuit In 黑色",
+      "product_img_src": "https://cdn.modesens.com/availability/49345070?w=400&",
+      "product_price": "$568 - $1485",
+      "id": 1
+    },
+    {
+      "web_scraper_order": "1655211192-12",
+      "web-scraper-start_url": "https://modesens.com/shop-women-clothing/",
+      "category_women": "BALMAIN Black Short Buttoned Knit Cardigan     $1019 - $2095 1",
+      "brand_store": "4 stores",
+      "category_women_href": "https://modesens.com/product/balmain-black-short-buttoned-knit-cardigan-21372265/",
+      "product_name": "BALMAIN",
+      "product_description": "Black Short Buttoned Knit Cardigan",
+      "product_img_src": "https://cdn.modesens.com/product/21372265_31?w=400&",
+      "product_price": "$1019 - $2095",
+      "id": 2
+    },
+    {
+      "web_scraper_order": "1655211192-12",
+      "web-scraper-start_url": "https://modesens.com/shop-women-clothing/",
+      "category_women": "BALMAIN Black Short Buttoned Knit Cardigan     $1019 - $2095 1",
+      "brand_store": "4 stores",
+      "category_women_href": "https://modesens.com/product/balmain-black-short-buttoned-knit-cardigan-21372265/",
+      "product_name": "BALMAIN",
+      "product_description": "Black Short Buttoned Knit Cardigan",
+      "product_img_src": "https://cdn.modesens.com/product/21372265_31?w=400&",
+      "product_price": "$1019 - $2095",
+      "id": 3
+    },
+    {
+      "web_scraper_order": "1655211209-18",
+      "web-scraper-start_url": "https://modesens.com/shop-women-clothing/",
+      "category_women": "GANNI Twisted Strap Swimsuit Smiley - Placement Print In Black     $91 - $240 1",
+      "brand_store": "3 stores",
+      "category_women_href": "https://modesens.com/product/ganni-twisted-strap-swimsuit-smiley---placement-print-black-38045128/",
+      "product_name": "GANNI",
+      "product_description": "Twisted Strap Swimsuit Smiley - Placement Print In Black",
+      "product_img_src": "https://cdn-images.farfetch-contents.com/17/65/23/46/17652346_36883795_1000.jpg",
+      "product_price": "$91 - $240",
+      "id": 4
+    },
+    {
+      "web_scraper_order": "1655218973-441",
+      "web-scraper-start_url": "https://modesens.com/shop-men-clothing/",
+      "category_MenClothing": "JACQUEMUS Le Sweatshirt Vague Organic Cotton Logo Hoodie In Green     $226 - $519 2",
+      "brand_store": "0 stores",
+      "category_MenClothing_href": "https://modesens.com/product/jacquemus-le-sweatshirt-vague-organic-cotton-logo-hoodie-green-40099640/",
+      "product_name": "JACQUEMUS",
+      "product_description": "Le Sweatshirt Vague Organic Cotton Logo Hoodie In Green",
+      "product_price": "$226 - $519",
+      "product_img_src": "https://cdn.modesens.com/availability/45631632?w=400&",
+      "id": 5
+    },
+    {
+      "web_scraper_order": "1655219005-448",
+      "web-scraper-start_url": "https://modesens.com/shop-men-clothing/",
+      "category_MenClothing": "PALM ANGELS Logo-jacquard Cotton-mesh Sweater In Black     $221 - $550 1",
+      "brand_store": "8 stores",
+      "category_MenClothing_href": "https://modesens.com/product/palm-angels-logo-jacquard-cotton-mesh-sweater-black-22309428/",
+      "product_name": "PALM ANGELS",
+      "product_description": "Logo-jacquard Cotton-mesh Sweater In Black",
+      "product_price": "$221 - $550",
+      "product_img_src": "https://cdn.modesens.com/availability/28363196?w=400&",
+      "id": 6
+    }
+  ]
